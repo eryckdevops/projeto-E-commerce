@@ -30,4 +30,4 @@ npm run build
 Quando você conseguir acessar o painel de controle faça as configurações dos métodos de pagamento na rota "/painel/configuracoes/sistema/loja-online", por padrão os pagamentos vem desabilitados, pela falta das credências que são disponibilizadas nas plataformas de seus respectivos donos que são o pagseguro, mercadopago e picpay
 
 ## Informações Adicionais
-Template do Site: [ELECTRO](https://themewagon.com/themes/free-bootstrap-ecommerce-template-electro/)<br>
+Dev: [Erick Rodrigues]()<br>
